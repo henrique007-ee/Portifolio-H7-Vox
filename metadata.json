@@ -1,0 +1,6 @@
+{
+  "name": "H7.VOX | Editor de Vídeo, Filmmaker e Storymaker",
+  "description": "Portfólio profissional de Endson Henrique (H7.VOX). Produção audiovisual, edição de vídeos, filmmaker, storymaker para eventos e comunicação política.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

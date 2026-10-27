@@ -1,0 +1,920 @@
+Quero que você faça uma reformulação visual e funcional do meu site H7.VOX, mantendo a estrutura existente, os dados, os projetos cadastrados e todas as funcionalidades que já funcionam.
+
+O objetivo é transformar o site em um portfólio audiovisual muito mais moderno, clean, dinâmico, organizado e profissional, especialmente no celular.
+
+Analise as imagens de referência que enviei.
+
+A primeira imagem mostra como meu site está aparecendo atualmente no mobile. As demais referências mostram estilos de formulário, perguntas frequentes e apresentação de portfólio que podem inspirar a nova versão.
+
+IMPORTANTE:
+Não quero simplesmente diminuir os elementos do desktop para caber no celular.
+
+Quero um design MOBILE-FIRST, pensado primeiro para telas pequenas e depois adaptado para computadores.
+
+Não reconstrua tudo desnecessariamente. Analise o código atual e implemente as melhorias diretamente no projeto.
+
+Não apague meus projetos, marcas, identidades visuais, depoimentos ou configurações existentes.
+
+==================================================
+1. IDENTIDADE VISUAL H7.VOX
+==================================================
+
+Minha marca é H7.VOX.
+
+Instagram:
+@h7.vox
+
+Link:
+https://www.instagram.com/h7.vox/
+
+WhatsApp:
+81985476681
+
+Link:
+https://wa.me/5581985476681
+
+Utilize minha logo oficial, já fornecida anteriormente.
+
+Não redesenhe a logo e não a substitua por texto digitado.
+
+Mantenha a identidade visual baseada em:
+
+Verde principal: #08CC07
+Preto: #080808
+Branco: #FFFFFF
+Cinza-escuro: #151515
+Cinza-claro: #B8B8B8
+
+O estilo deve transmitir:
+
+- Audiovisual.
+- Criatividade.
+- Profissionalismo.
+- Tecnologia.
+- Movimento.
+- Identidade própria.
+- Qualidade cinematográfica.
+
+Quero uma aparência moderna, mas sem exageros.
+
+Evite efeitos visuais desnecessários, excesso de bordas, elementos gigantes e animações que atrapalhem a navegação.
+
+O foco deve estar nos meus trabalhos e na facilidade de contratar meus serviços.
+
+==================================================
+2. REFORMULAÇÃO COMPLETA DA EXPERIÊNCIA MOBILE
+==================================================
+
+O site atual apresenta problemas de proporção e aproveitamento do espaço em dispositivos móveis.
+
+Corrija esses problemas em todas as seções.
+
+Problemas que precisam ser resolvidos:
+
+- A apresentação inicial parece apertada.
+- O título ocupa muito espaço vertical.
+- Os textos ficam excessivamente quebrados.
+- Os botões precisam de uma distribuição melhor.
+- A navegação precisa ser mais elegante.
+- Os filtros do portfólio ficam cortados.
+- Os conteúdos não aproveitam corretamente a largura disponível.
+- Algumas seções parecem grandes demais, enquanto outras ficam comprimidas.
+- O site precisa apresentar os trabalhos com mais destaque.
+
+Quero um layout equilibrado, com espaços bem definidos e uma hierarquia visual clara.
+
+Utilize uma largura fluida, margens adequadas e espaçamentos consistentes.
+
+Não deixe os elementos encostados nas bordas da tela.
+
+Não crie grandes espaços vazios sem propósito.
+
+Não permita rolagem horizontal involuntária.
+
+O site deve funcionar bem em telas pequenas, médias e grandes.
+
+Teste em larguras de aproximadamente 320 px, 360 px, 390 px, 430 px, 768 px, 1024 px e 1440 px.
+
+Não utilize essas medidas como limites rígidos. O layout precisa se adaptar continuamente.
+
+==================================================
+3. NOVA PRIMEIRA TELA — HERO
+==================================================
+
+Reformule completamente a primeira tela.
+
+Quero uma apresentação mais clean, moderna e dinâmica.
+
+No topo, apresente:
+
+- Minha logo oficial à esquerda.
+- Um menu compacto à direita.
+- Um indicador discreto de atividade ou apresentação audiovisual, se combinar com o layout.
+
+Não coloque muitos textos pequenos no cabeçalho.
+
+O menu deve ser simples e funcionar perfeitamente no celular.
+
+Utilize um menu lateral ou dropdown compacto, com animação suave.
+
+Quando aberto, o menu deve apresentar:
+
+Início
+Portfólio
+Identidades visuais
+Serviços
+Valores
+Marcas
+Bastidores
+Sobre mim
+Contato
+
+O menu deve fechar ao selecionar uma opção.
+
+O conteúdo precisa ter espaçamento suficiente para não parecer comprimido.
+
+TÍTULO PRINCIPAL:
+
+"IMAGENS QUE MARCAM.
+HISTÓRIAS QUE CONECTAM."
+
+Mantenha essa frase como o principal elemento da primeira tela.
+
+No celular, utilize um tamanho de fonte responsivo, com quebras de linha naturais.
+
+Evite que cada palavra fique isolada sem necessidade.
+
+O título deve ser forte, mas não pode ocupar quase toda a altura da tela.
+
+TEXTO COMPLEMENTAR:
+
+"Transformo ideias, momentos e marcas em experiências visuais que merecem ser vistas."
+
+Abaixo, apresente discretamente minhas áreas de atuação:
+
+EDITOR DE VÍDEO
+FILMMAKER
+STORYMAKER
+IDENTIDADE VISUAL
+
+Não deixe essa linha competir visualmente com o título.
+
+BOTÕES:
+
+"Explorar portfólio"
+"Vamos conversar"
+
+O botão "Explorar portfólio" deve direcionar à seção de projetos.
+
+O botão "Vamos conversar" deve abrir meu WhatsApp com uma mensagem inicial apropriada.
+
+No desktop, os botões podem ficar lado a lado.
+
+No celular, podem ficar empilhados, desde que isso melhore a leitura e a facilidade de utilização.
+
+Os dois devem ter boa altura, espaçamento e área de toque.
+
+O botão principal deve possuir destaque visual.
+
+Utilize o verde #08CC07 de maneira estratégica.
+
+Não deixe os botões excessivamente largos ou altos sem necessidade.
+
+==================================================
+4. ANIMAÇÕES E DINAMISMO
+==================================================
+
+Quero um site dinâmico, mas não exagerado.
+
+Utilize animações suaves em:
+
+- Entrada das seções.
+- Aparição dos títulos.
+- Cards dos projetos.
+- Botões.
+- Elementos gráficos.
+- Transições entre conteúdos.
+- Indicadores numéricos.
+
+Os elementos podem aparecer gradualmente conforme o visitante navega pela página.
+
+Evite animações que atrasem o acesso aos conteúdos.
+
+Não faça o visitante esperar por uma animação para conseguir clicar.
+
+Não mantenha efeitos pesados ativos sem necessidade.
+
+No celular, simplifique as animações mais exigentes.
+
+Respeite a configuração de redução de movimento do dispositivo.
+
+Se houver vídeo de apresentação na primeira tela, não permita que ele prejudique o carregamento inicial.
+
+Não reproduza áudio automaticamente.
+
+==================================================
+5. PORTFÓLIO: TUDO VISÍVEL E ACESSÍVEL NO MOBILE
+==================================================
+
+Essa é uma das partes mais importantes.
+
+Quero que a seção de portfólio seja completamente reorganizada para dispositivos móveis.
+
+Atualmente, as categorias ficam cortadas e nem todas são percebidas pelo visitante.
+
+Quero que todas as categorias estejam visíveis e acessíveis.
+
+Não quero que o usuário precise descobrir que existem opções escondidas fora da tela.
+
+Mantenha o cabeçalho:
+
+CATÁLOGO AUDIOVISUAL
+
+Título:
+
+"Portfólio de Produções"
+
+Descrição:
+
+"Filmes, aftermovies, coberturas e conteúdos verticais pensados com narrativa, intenção e impacto."
+
+No celular:
+
+- Centralize o título.
+- Reduza a descrição para um tamanho confortável.
+- Utilize uma largura de leitura adequada.
+- Evite que o texto ocupe linhas demais.
+- Mantenha um espaçamento equilibrado.
+- Não comprima o conteúdo.
+
+==================================================
+6. CATEGORIAS DO PORTFÓLIO
+==================================================
+
+As categorias devem ser organizadas da seguinte forma no desktop:
+
+PRIMEIRA LINHA:
+Eventos | Shows | Storymaker e real time
+
+SEGUNDA LINHA:
+Reels e redes sociais | Comunicação política | Publicidade e marcas
+
+TERCEIRA LINHA:
+Filmmaker e captação | Fotografia e bastidores | Identidades visuais
+
+A distribuição 3-3-3 refere-se somente às categorias, não aos projetos.
+
+No desktop, mantenha três categorias por linha, centralizadas e com espaçamento uniforme.
+
+No celular, NÃO tente colocar todas as categorias em uma única linha.
+
+Também não mantenha botões parcialmente escondidos.
+
+Utilize uma solução mobile-first com as seguintes características:
+
+- Duas colunas quando houver espaço suficiente.
+- Uma coluna em telas muito estreitas, caso necessário.
+- Botões com largura adequada.
+- Textos centralizados ou alinhados de maneira consistente.
+- Altura equilibrada.
+- Espaçamento uniforme.
+- Nenhum texto cortado.
+- Nenhuma categoria inacessível.
+
+Em telas móveis, prefira mostrar todas as categorias em uma grade compacta, permitindo que o visitante veja as opções disponíveis sem precisar arrastar uma barra horizontal.
+
+As categorias devem se adaptar à largura da tela.
+
+Não force o padrão 3-3-3 em dispositivos pequenos.
+
+Mantenha o estado visual da categoria selecionada em verde #08CC07.
+
+As demais devem apresentar fundo escuro e texto claro.
+
+Todos os filtros devem continuar funcionando.
+
+Ao selecionar uma categoria, mostre somente os projetos correspondentes.
+
+Inclua uma opção "Todos", caso ainda não exista.
+
+Não altere a associação dos projetos às categorias sem necessidade.
+
+==================================================
+7. CARDS DOS PROJETOS
+==================================================
+
+Melhore a apresentação dos projetos no celular.
+
+Quero cards modernos, com destaque para as imagens e thumbnails originais.
+
+Cada card pode apresentar:
+
+- Thumbnail.
+- Título.
+- Categoria.
+- Cliente.
+- Ano, quando cadastrado.
+- Botão ou indicação para assistir.
+
+Não sobrecarregue o card com informações.
+
+A imagem deve ser o principal elemento visual.
+
+Utilize uma proporção adequada ao tipo de conteúdo.
+
+Vídeos verticais devem manter o formato vertical.
+
+Vídeos horizontais devem manter o formato horizontal.
+
+Não distorça as imagens.
+
+Não corte partes importantes das thumbnails.
+
+No celular, utilize uma ou duas colunas, conforme o espaço disponível e o formato das imagens.
+
+Não reduza os cards a ponto de impedir a visualização dos trabalhos.
+
+Ao clicar em um projeto, abra uma visualização individual ou modal responsivo.
+
+Permita fechar facilmente a visualização e retornar à galeria.
+
+Mantenha os filtros funcionais.
+
+Todos os projetos publicados devem continuar acessíveis.
+
+Se houver muitos projetos, utilize carregamento progressivo ou um botão "Ver todos".
+
+Não esconda projetos existentes.
+
+==================================================
+8. CHAMADA PARA CONTRATAÇÃO NO MEIO DO SITE
+==================================================
+
+Quero uma seção de contratação estrategicamente posicionada no meio do site.
+
+Ela deve aparecer depois de o visitante conhecer uma parte importante do meu trabalho, mas antes de chegar ao final.
+
+A seção precisa funcionar como uma pausa visual entre as galerias.
+
+Utilize um fundo preto ou cinza-escuro, com detalhes verdes.
+
+TÍTULO:
+
+"SEU PRÓXIMO PROJETO PODE COMEÇAR AQUI."
+
+TEXTO:
+
+"Você já viu o que eu faço. Agora, vamos conversar sobre o que podemos criar juntos."
+
+BOTÃO PRINCIPAL:
+
+"Quero contratar"
+
+O botão deve abrir meu WhatsApp.
+
+Utilize uma mensagem inicial como:
+
+"Olá, Endson! Conheci seu portfólio H7.VOX e gostaria de conversar sobre um projeto."
+
+A seção deve ser visualmente impactante, mas compacta.
+
+Não transforme essa parte em uma segunda página inicial.
+
+Ela deve convidar à contratação sem interromper a navegação.
+
+==================================================
+9. MINHA TABELA DE VALORES
+==================================================
+
+Adicione uma seção chamada:
+
+"Investimento"
+
+Subtítulo:
+
+"Escolha o formato ideal para o seu projeto."
+
+Quero que minha tabela de valores fique disponível diretamente no site.
+
+Utilize os valores abaixo, mantendo a separação entre os serviços.
+
+IMPORTANTE:
+Não misture os preços de serviços diferentes.
+Não invente novos preços.
+Não transforme valores por vídeo em valores mensais.
+Não apresente pacotes antigos como se fossem novos.
+Se um preço não estiver definido, permita que eu o configure pelo painel administrativo.
+
+PACOTES DE CONTEÚDO PESSOAL:
+
+PACOTE 1
+- 2 vídeos.
+- 1 card.
+- Valor: R$ 200.
+
+PACOTE 2
+- 4 vídeos.
+- 2 cards.
+- Valor: R$ 300.
+
+PACOTE 3
+- 6 vídeos.
+- 4 cards.
+- Valor: R$ 600.
+
+SERVIÇOS AVULSOS:
+
+- Card: R$ 25.
+- Carrossel: R$ 40.
+- Vídeo avulso: R$ 100.
+
+COBERTURA DE EVENTOS:
+
+- 5 fotos: R$ 20.
+- 10 fotos: R$ 40.
+- Vídeo individual: R$ 120.
+- Vídeo coletivo: R$ 150.
+
+Esses valores devem ser apresentados exatamente como cadastrados.
+
+Não adicione preços a serviços que não possuem valores definidos.
+
+Crie uma organização visual clara, dividindo a seção em grupos:
+
+1. Pacotes de conteúdo.
+2. Serviços avulsos.
+3. Cobertura de eventos.
+
+Cada opção deve mostrar:
+
+- Nome.
+- O que está incluído.
+- Preço.
+- Botão de contratação.
+
+Os pacotes podem ter destaque visual, mas sem criar uma falsa indicação de que algum deles é o mais vendido.
+
+O visitante deve conseguir comparar as opções rapidamente.
+
+No celular, apresente os pacotes em cards empilhados verticalmente.
+
+Evite tabelas largas que exijam rolagem horizontal.
+
+Utilize tipografia legível.
+
+Destaque os preços sem exagerar no tamanho.
+
+Os botões devem abrir o WhatsApp com uma mensagem específica para a opção selecionada.
+
+Exemplo:
+
+"Olá, Endson! Tenho interesse no Pacote de 4 vídeos e 2 cards, anunciado no site H7.VOX."
+
+Para serviços avulsos, a mensagem deve indicar o serviço correspondente.
+
+No painel administrativo, crie uma área para editar os valores.
+
+Permita:
+- Alterar preços.
+- Editar descrições.
+- Adicionar novos pacotes.
+- Ocultar serviços.
+- Reordenar opções.
+- Publicar e despublicar opções.
+
+As alterações devem ser salvas no banco de dados.
+
+Não dependa de alterações manuais no código.
+
+IMPORTANTE SOBRE OS PREÇOS:
+
+Apresente os valores como referência dos serviços cadastrados.
+
+Não invente condições, prazos, quantidades adicionais ou benefícios.
+
+Permita que eu acrescente observações sobre o escopo dos pacotes pelo painel.
+
+Não crie descontos ou preços promocionais automaticamente.
+
+==================================================
+10. CTA DE CONTRATAÇÃO NA ÁREA DE VALORES
+==================================================
+
+Após os pacotes e serviços, inclua uma chamada discreta:
+
+"Não encontrou o formato ideal?"
+
+Texto:
+
+"Me conte sua ideia e vamos conversar sobre a melhor solução para o seu projeto."
+
+Botão:
+
+"Solicitar orçamento personalizado"
+
+Esse botão deve abrir meu WhatsApp com uma mensagem específica:
+
+"Olá, Endson! Conheci o site H7.VOX e gostaria de solicitar um orçamento personalizado."
+
+A chamada deve ser clara e profissional.
+
+Não pressione o visitante com mensagens insistentes.
+
+==================================================
+11. MARCAS E CLIENTES
+==================================================
+
+Mantenha a seção de marcas.
+
+Quero que ela continue apresentando as logos dos clientes em movimento contínuo.
+
+As logos devem:
+- Preservar a proporção original.
+- Ter boa legibilidade.
+- Manter espaçamento uniforme.
+- Possuir movimento suave.
+- Adaptar-se ao celular.
+
+No mobile, evite logos muito pequenas.
+
+Permita pausar o movimento quando apropriado.
+
+As marcas devem vir dos registros publicados no painel administrativo.
+
+Quando eu adicionar uma marca, ela deve aparecer automaticamente.
+
+Quando eu ocultar ou excluir uma marca, ela deve deixar de aparecer conforme as regras de publicação e exclusão.
+
+Não crie marcas fictícias.
+
+==================================================
+12. PERGUNTAS FREQUENTES
+==================================================
+
+Adicione uma seção chamada:
+
+"Perguntas Frequentes"
+
+Quero que o visual seja inspirado na referência que enviei.
+
+Utilize:
+- Fundo claro ou escuro, conforme a composição geral da página.
+- Título grande.
+- Perguntas organizadas verticalmente.
+- Linhas divisórias discretas.
+- Ícones de expandir e recolher.
+- Animações suaves.
+- Texto confortável para leitura.
+
+A referência apresenta um título grande e perguntas com sinais de mais e menos.
+
+Quero uma versão adaptada à identidade H7.VOX.
+
+Minha preferência é utilizar o fundo preto e detalhes verdes, mas você pode usar uma área clara se isso melhorar a hierarquia visual e criar contraste com as demais seções.
+
+Não copie a identidade visual azul da referência.
+
+Utilize minha paleta de cores.
+
+CADASTRE ESTAS PERGUNTAS:
+
+1. COMO FUNCIONA O SEU PROCESSO DE CRIAÇÃO?
+
+Resposta:
+"Primeiro, entendo sua ideia, seus objetivos e o tipo de conteúdo que você precisa. A partir disso, alinhamos a proposta e os detalhes do projeto para desenvolver um resultado de acordo com sua necessidade."
+
+2. VOCÊ TRABALHA COM QUAIS TIPOS DE PROJETO?
+
+Resposta:
+"Trabalho com edição de vídeos, produção audiovisual, filmmaker, storymaker, cobertura de eventos, conteúdo para redes sociais, comunicação política e identidades visuais."
+
+3. VOCÊ FAZ COBERTURA DE EVENTOS?
+
+Resposta:
+"Sim. Trabalho com produção de conteúdo audiovisual para eventos, incluindo captação e conteúdo para redes sociais, conforme o serviço contratado."
+
+4. VOCÊ PRODUZ STORIES EM TEMPO REAL?
+
+Resposta:
+"Sim. Trabalho com storymaker e produção de conteúdo em tempo real para registrar os principais momentos e compartilhar a experiência durante o evento, conforme o formato combinado."
+
+5. COMO POSSO CONTRATAR SEUS SERVIÇOS?
+
+Resposta:
+"Você pode entrar em contato pelo WhatsApp ou Instagram. Me conte o que precisa e vamos conversar sobre o formato ideal para o seu projeto."
+
+6. OS VALORES DO SITE SÃO FIXOS?
+
+Resposta:
+"Os valores apresentados correspondem aos serviços e pacotes cadastrados no portfólio. Projetos com necessidades diferentes podem exigir uma proposta personalizada."
+
+7. COMO ENVIO MEU MATERIAL PARA EDIÇÃO?
+
+Resposta:
+"Podemos alinhar a melhor forma de envio conforme o volume e o tipo dos arquivos. Entre em contato para combinarmos os detalhes."
+
+8. VOCÊ TRABALHA COM IDENTIDADE VISUAL?
+
+Resposta:
+"Sim. Também desenvolvo identidades visuais e posso apresentar projetos anteriores na seção específica do portfólio."
+
+FUNCIONAMENTO:
+
+As perguntas devem funcionar como um acordeão.
+
+Quando o visitante clicar em uma pergunta, a resposta deve aparecer suavemente.
+
+Ao clicar novamente, ela deve fechar.
+
+Permita abrir uma pergunta por vez para manter a página organizada.
+
+No celular, os textos devem ter boa legibilidade e espaçamento.
+
+Não utilize respostas cortadas.
+
+Não deixe o conteúdo ultrapassar os limites da tela.
+
+No painel administrativo, permita:
+- Adicionar perguntas.
+- Editar perguntas.
+- Editar respostas.
+- Reordenar.
+- Ocultar.
+- Excluir.
+
+As perguntas e respostas devem ser persistidas.
+
+==================================================
+13. BASTIDORES
+==================================================
+
+Mantenha a seção chamada apenas:
+
+"BASTIDORES"
+
+Não utilize o título antigo "BASTIDORES & PRODUÇÃO".
+
+Não utilize o subtítulo antigo "Além do resultado, existe o processo".
+
+Essa seção deve mostrar somente conteúdos que eu adicionar manualmente.
+
+Permita publicar:
+- Fotografias.
+- Vídeos.
+- Making of.
+- Bastidores de gravação.
+- Registros de eventos.
+- Processo de edição.
+
+No celular, utilize uma galeria elegante, com imagens proporcionais e boa distribuição.
+
+Não deixe as imagens excessivamente pequenas.
+
+Não publique automaticamente conteúdos que eu não selecionei.
+
+==================================================
+14. CHAMADA FINAL PARA CONTRATAÇÃO
+==================================================
+
+No final do site, antes do rodapé, crie uma seção forte de conversão.
+
+Essa seção deve fechar a experiência de navegação.
+
+TÍTULO:
+
+"VAMOS DAR VOZ À SUA IDEIA?"
+
+TEXTO:
+
+"Se você precisa de vídeos que conectam, conteúdo que marca ou uma identidade visual para seu projeto, vamos conversar."
+
+BOTÃO PRINCIPAL:
+
+"Falar com Endson"
+
+O botão deve abrir:
+
+https://wa.me/5581985476681
+
+Mensagem sugerida:
+
+"Olá, Endson! Conheci seu portfólio H7.VOX e gostaria de conversar sobre um projeto."
+
+BOTÃO SECUNDÁRIO:
+
+"Ver Instagram"
+
+Link:
+
+https://www.instagram.com/h7.vox/
+
+Utilize um layout centralizado.
+
+Dê destaque ao título.
+
+Utilize a cor verde nos elementos de ação.
+
+A seção deve ser visualmente marcante, mas sem efeitos excessivos.
+
+Não repita toda a tabela de preços nesse espaço.
+
+A ideia é conduzir o visitante diretamente ao contato.
+
+==================================================
+15. RODAPÉ
+==================================================
+
+Crie um rodapé compacto e profissional.
+
+Inclua:
+- Logo oficial H7.VOX.
+- Endson Henrique.
+- Editor de vídeo, filmmaker e storymaker.
+- Link para Instagram.
+- Link para WhatsApp.
+- Navegação para as principais seções.
+- Aviso de direitos autorais com o ano atualizado automaticamente.
+
+Não invente endereços, e-mails ou redes sociais adicionais.
+
+==================================================
+16. ADMINISTRAÇÃO DA TABELA DE VALORES
+==================================================
+
+Crie uma área de administração específica para os preços.
+
+Quero conseguir atualizar minha tabela sem editar o código.
+
+Cada serviço ou pacote deve possuir:
+
+- Nome.
+- Categoria.
+- Descrição.
+- Itens incluídos.
+- Preço.
+- Tipo de preço, quando necessário.
+- Ordem de exibição.
+- Estado publicado ou oculto.
+- Mensagem personalizada para o WhatsApp.
+
+Não permita que um campo de preço vazio seja exibido como R$ 0,00.
+
+Não apresente serviços ocultos na página pública.
+
+Não perca os preços cadastrados após atualizar a página.
+
+Se o banco de dados atual já possuir uma estrutura apropriada, reutilize-a.
+
+Caso precise criar novas tabelas ou coleções, faça isso preservando os dados existentes.
+
+==================================================
+17. DESEMPENHO E CARREGAMENTO
+==================================================
+
+Quero que o site abra rapidamente, especialmente em conexões móveis.
+
+Implemente:
+
+- Imagens otimizadas.
+- Lazy loading.
+- Carregamento sob demanda dos vídeos.
+- Thumbnails leves.
+- Animações otimizadas.
+- Componentes reutilizáveis.
+- Carregamento progressivo das galerias.
+- Tratamento de falhas em vídeos externos.
+
+Não carregue todos os vídeos do Instagram assim que a página abrir.
+
+Não execute animações pesadas em segundo plano sem necessidade.
+
+Evite mudanças de layout durante o carregamento.
+
+Reserve o espaço das imagens e vídeos antes de carregá-los, evitando que os elementos fiquem pulando pela tela.
+
+==================================================
+18. ACESSIBILIDADE
+==================================================
+
+Garanta:
+- Contraste adequado.
+- Textos legíveis.
+- Botões com nomes claros.
+- Navegação por teclado.
+- Estados de foco visíveis.
+- Descrições alternativas nas imagens.
+- Acordeão acessível.
+- Menu funcional.
+- Compatibilidade com redução de movimento.
+
+Não utilize apenas a cor para indicar se um botão está selecionado.
+
+Utilize também um estado visual acessível.
+
+==================================================
+19. SEGURANÇA E PRESERVAÇÃO DOS DADOS
+==================================================
+
+Antes de modificar o projeto, analise a arquitetura atual.
+
+Preserve os dados existentes.
+
+Não substitua o banco de dados por armazenamento exclusivamente local.
+
+Não exponha credenciais no frontend.
+
+Não remova integrações que já funcionam.
+
+Garanta que as alterações administrativas sejam realmente persistidas.
+
+Se ocorrer uma falha ao salvar dados, informe o erro corretamente.
+
+Não apresente uma operação como concluída se ela falhar.
+
+==================================================
+20. TESTES FINAIS OBRIGATÓRIOS
+==================================================
+
+Depois de implementar as mudanças, teste o site.
+
+MOBILE:
+
+- O cabeçalho está organizado.
+- A logo aparece corretamente.
+- O menu abre e fecha.
+- O título não ocupa espaço excessivo.
+- Os textos não ficam comprimidos.
+- Os botões funcionam.
+- Todas as categorias do portfólio estão visíveis e acessíveis.
+- Os filtros funcionam.
+- Os projetos aparecem com boas proporções.
+- Nenhuma seção gera rolagem horizontal involuntária.
+- A tabela de valores é legível.
+- Os preços não ficam cortados.
+- As perguntas frequentes abrem e fecham.
+- A seção de marcas funciona.
+- Os bastidores aparecem corretamente.
+- As chamadas para contratação funcionam.
+- O WhatsApp abre com a mensagem correta.
+
+DESKTOP:
+
+- As categorias estão organizadas em três linhas com três botões por linha.
+- Os projetos possuem uma grade independente.
+- O layout está centralizado.
+- Os espaçamentos são consistentes.
+- As animações funcionam.
+- A tabela de valores está organizada.
+- As perguntas frequentes funcionam.
+- O rodapé está completo.
+
+FUNCIONALIDADE:
+
+- Os preços persistem após atualizar a página.
+- As alterações feitas no painel aparecem no site.
+- Os botões de contratação direcionam ao destino correto.
+- Os conteúdos publicados são exibidos.
+- Os conteúdos ocultos não aparecem publicamente.
+- Não há links quebrados.
+- Não existem erros críticos no console.
+
+Não considere a tarefa concluída apenas porque a página abre.
+
+Verifique as funcionalidades reais.
+
+==================================================
+21. RESULTADO ESPERADO
+==================================================
+
+Quero que o site H7.VOX tenha aparência de um portfólio audiovisual profissional, com identidade própria e foco em contratação.
+
+A experiência mobile deve ser tão bem resolvida quanto a versão desktop.
+
+Quero um site:
+- Mais clean.
+- Mais dinâmico.
+- Mais organizado.
+- Mais rápido.
+- Mais fácil de navegar.
+- Mais fácil de administrar.
+- Mais eficiente para transformar visitantes em clientes.
+
+Mantenha minha identidade preta e verde.
+
+Dê destaque aos meus trabalhos.
+
+Mostre todos os filtros de maneira acessível no celular.
+
+Inclua uma chamada para contratação no meio do site.
+
+Adicione minha tabela de preços.
+
+Inclua perguntas frequentes com acordeão.
+
+Crie uma chamada final para contratação antes do rodapé.
+
+Preserve todas as funcionalidades que já existem.
+
+Implemente as mudanças diretamente no projeto atual.
+
+Ao terminar, apresente um resumo do que foi alterado, o que foi testado e o que ainda depende de configuração externa.

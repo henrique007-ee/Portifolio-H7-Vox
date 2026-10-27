@@ -1,0 +1,551 @@
+{
+  "adminPasswordHash": "2452f1e2a22a0d2929c8b63682db1108e304e13f06b55ee94fa177718995d7da",
+  "settings": {
+    "brandName": "H7.VOX",
+    "ownerName": "Endson Henrique",
+    "roleSubtitle": "EDITOR DE VÍDEO • FILMMAKER • STORYMAKER • IDENTIDADE VISUAL",
+    "heroTitle": "IMAGENS QUE MARCAM.\nHISTÓRIAS QUE CONECTAM.",
+    "heroSubtitle": "H7.VOX • PRODUÇÃO AUDIOVISUAL",
+    "heroLead": "Transformo ideias, momentos e marcas em experiências visuais que merecem ser vistas.",
+    "heroVideoUrl": "https://assets.mixkit.co/videos/preview/mixkit-cameraman-filming-in-a-studio-setting-41585-large.mp4",
+    "aboutTitle": "Por trás de cada vídeo, existe alguém que acredita no poder de uma boa história.",
+    "aboutBio": "Sou Endson Henrique, profissional da área audiovisual com atuação em edição de vídeos, filmmaker, storymaker, captação e identidades visuais.\n\nMeu trabalho é transformar ideias, momentos e histórias em conteúdos que comunicam de verdade. Cada projeto tem uma intenção, e meu papel é encontrar a melhor forma de colocá-la em imagem.",
+    "aboutPhoto": "",
+    "aboutPhilosophy": "Meu trabalho une criatividade, atenção aos detalhes e compreensão do objetivo de cada conteúdo. Do corte seco ao ritmo da trilha, cada escolha visual tem uma intenção estratégica.",
+    "whatsappNumber": "5581985476681",
+    "defaultWhatsappMessage": "Olá, Endson! Conheci seu portfólio H7.VOX e gostaria de conversar sobre um projeto audiovisual.",
+    "instagramHandle": "h7.vox",
+    "instagramUrl": "https://www.instagram.com/h7.vox/",
+    "email": "endsonhenrique13@gmail.com",
+    "location": "Pernambuco, Brasil",
+    "logoUrl": "/assets/logo_web.png",
+    "logoOriginalUrl": "/assets/aistudio/minha_logo_7050a17d.png",
+    "showMetrics": true,
+    "metrics": [
+      {
+        "label": "PROJETOS REALIZADOS",
+        "value": "80+",
+        "detail": "Produções entregues"
+      },
+      {
+        "label": "EVENTOS",
+        "value": "+30",
+        "detail": "Coberturas e festivais"
+      },
+      {
+        "label": "VISUALIZAÇÕES",
+        "value": "+1M",
+        "detail": "Alcance somado"
+      }
+    ],
+    "showBrands": true,
+    "showTestimonials": false,
+    "visitorWebhookUrl": ""
+  },
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Eventos",
+      "order": 1,
+      "active": true
+    },
+    {
+      "id": "cat-2",
+      "name": "Shows",
+      "order": 2,
+      "active": true
+    },
+    {
+      "id": "cat-3",
+      "name": "Storymaker e real time",
+      "order": 3,
+      "active": true
+    },
+    {
+      "id": "cat-4",
+      "name": "Reels e redes sociais",
+      "order": 4,
+      "active": true
+    },
+    {
+      "id": "cat-5",
+      "name": "Comunicação política",
+      "order": 5,
+      "active": true
+    },
+    {
+      "id": "cat-6",
+      "name": "Publicidade e marcas",
+      "order": 6,
+      "active": true
+    },
+    {
+      "id": "cat-7",
+      "name": "Filmmaker e captação",
+      "order": 7,
+      "active": true
+    },
+    {
+      "id": "cat-8",
+      "name": "Fotografia e bastidores",
+      "order": 8,
+      "active": true
+    },
+    {
+      "id": "cat-9",
+      "name": "Identidades visuais",
+      "order": 9,
+      "active": false
+    }
+  ],
+  "services": [
+    {
+      "id": "srv-1",
+      "code": "01",
+      "title": "Edição de Vídeo",
+      "description": "Transformo gravações em vídeos dinâmicos, com ritmo, narrativa e recursos visuais adequados ao objetivo do projeto.",
+      "deliverables": [
+        "Reels e vídeos verticais para redes sociais",
+        "Vídeos institucionais e comerciais",
+        "Pós-produção e aftermovies de eventos",
+        "Color grading cinematográfico e sound design",
+        "Motion graphics e legendagem assertiva"
+      ],
+      "whatsappMessage": "Olá, Endson! Gostaria de conversar sobre o serviço de Edição de Vídeo para meu projeto.",
+      "order": 1,
+      "active": true
+    },
+    {
+      "id": "srv-2",
+      "code": "02",
+      "title": "Filmmaker",
+      "description": "Captação e produção de vídeos para marcas, eventos, profissionais e redes sociais.",
+      "deliverables": [
+        "Produções comerciais e publicitárias",
+        "Filmes institucionais e documentais",
+        "Captação com equipamentos profissionais",
+        "Direção de cena e iluminação estratégica"
+      ],
+      "whatsappMessage": "Olá, Endson! Gostaria de solicitar uma proposta para Filmmaker e Produção Audiovisual.",
+      "order": 2,
+      "active": true
+    },
+    {
+      "id": "srv-3",
+      "code": "03",
+      "title": "Storymaker",
+      "description": "Produção de conteúdo para stories e cobertura de eventos, incluindo conteúdo em tempo real quando contratado.",
+      "deliverables": [
+        "Cobertura de eventos em tempo real (real time)",
+        "Stories com cortes rápidos e dinamismo",
+        "Bastidores exclusivos e making of",
+        "Entrega ágil durante o próprio evento"
+      ],
+      "whatsappMessage": "Olá, Endson! Tenho interesse na cobertura como Storymaker para meu evento.",
+      "order": 3,
+      "active": true
+    },
+    {
+      "id": "srv-4",
+      "code": "04",
+      "title": "Identidade Visual",
+      "description": "Criação de identidades visuais para marcas, com elementos gráficos e aplicações que ajudam a construir reconhecimento.",
+      "deliverables": [
+        "Logotipo principal e variações",
+        "Paleta de cores e tipografia institucional",
+        "Manual de marca e elementos visuais",
+        "Mockups e aplicações em peças reais"
+      ],
+      "whatsappMessage": "Olá, Endson! Gostaria de falar sobre criação de Identidade Visual para minha marca.",
+      "order": 4,
+      "active": true
+    },
+    {
+      "id": "srv-5",
+      "code": "05",
+      "title": "Fotografia e Captação",
+      "description": "Registro de pessoas, eventos e projetos com foco na qualidade visual.",
+      "deliverables": [
+        "Fotografia de eventos e shows",
+        "Ensaios profissionais e corporativos",
+        "Tratamento de cor de alta resolução",
+        "Captação fotográfica de bastidores"
+      ],
+      "whatsappMessage": "Olá, Endson! Gostaria de saber mais sobre Fotografia e Captação visual.",
+      "order": 5,
+      "active": true
+    },
+    {
+      "id": "srv-6",
+      "code": "06",
+      "title": "Comunicação Política",
+      "description": "Produção e edição de conteúdo audiovisual para comunicação política e redes sociais.",
+      "deliverables": [
+        "Edição de vídeos de posicionamento",
+        "Cobertura de agendas públicas e plenárias",
+        "Pílulas para redes com linguagem assertiva",
+        "Narrativa estratégica e engajamento"
+      ],
+      "whatsappMessage": "Olá, Endson! Gostaria de conversar sobre produção audiovisual para Comunicação Política.",
+      "order": 6,
+      "active": true
+    }
+  ],
+  "projects": [],
+  "visualIdentities": [
+    {
+      "id": "vi-1",
+      "title": "Edson Lima — Identidade & Turnê",
+      "client": "Edson Lima",
+      "year": "2025",
+      "description": "Construção de identidade visual e conceito gráfico para nova temporada de shows e lançamentos musicais de Edson Lima. Visual sofisticado, moderno e com forte presença de palco.",
+      "concept": "A identidade combina o prestígio da voz de Edson Lima com linhas tipográficas contemporâneas e contrastes luminosos marcantes para palcos e mídias sociais.",
+      "coverImage": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
+      "logoMain": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=800&q=80",
+      "logoVariations": [
+        "Versão Horizontal para Telões",
+        "Selo Compacto para Redes",
+        "Versão Monocromática para Merchandising"
+      ],
+      "colorPalette": [
+        {
+          "name": "Preto Titânio",
+          "hex": "#0D0D0D"
+        },
+        {
+          "name": "Verde Neon H7",
+          "hex": "#08CC07"
+        },
+        {
+          "name": "Dourado Palco",
+          "hex": "#D4AF37"
+        },
+        {
+          "name": "Branco Puro",
+          "hex": "#FFFFFF"
+        }
+      ],
+      "typography": [
+        {
+          "role": "Títulos & Assinatura",
+          "family": "Outfit Black"
+        },
+        {
+          "role": "Apoio & Textos",
+          "family": "Plus Jakarta Sans"
+        }
+      ],
+      "graphicElements": [
+        "Linhas de ondas sonoras estilizadas",
+        "Grafismos angulares para telões LED",
+        "Padrão de enquadramento cinematográfico"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "order": 1,
+      "featured": true,
+      "published": true,
+      "inTrash": false
+    },
+    {
+      "id": "vi-2",
+      "title": "Summit Nordeste de Negócios — Branding & Sinalização",
+      "client": "Summit Nordeste",
+      "year": "2025",
+      "description": "Sistema completo de identidade visual para convenção de negócios, incluindo crachás, cenografia de palco, apresentações de palestrantes e templates digitais.",
+      "concept": "Conectar inovação e regionalismo através de formas geométricas minimalistas e paleta de alto impacto.",
+      "coverImage": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=1200&q=80",
+      "logoMain": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=800&q=80",
+      "colorPalette": [
+        {
+          "name": "Azul Profundo",
+          "hex": "#0A1128"
+        },
+        {
+          "name": "Verde Neon",
+          "hex": "#08CC07"
+        },
+        {
+          "name": "Cinza Superfície",
+          "hex": "#1E222D"
+        }
+      ],
+      "typography": [
+        {
+          "role": "Display",
+          "family": "Outfit Bold"
+        },
+        {
+          "role": "Corpo",
+          "family": "JetBrains Mono"
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "order": 2,
+      "featured": true,
+      "published": true,
+      "inTrash": false
+    },
+    {
+      "id": "vi-3",
+      "title": "Cais & Fogo — Identidade Gastronômica Sensorial",
+      "client": "Bistrô Cais & Fogo",
+      "year": "2024",
+      "description": "Identidade visual para restaurante e espaço de alta gastronomia: tipografia rústica elegante, cardápios em couro sintético, uniformes e selos de assinatura.",
+      "concept": "A união entre o elemento marítimo (cais) e a cozinha de brasa (fogo) traduzida em traços fluidos e cores quentes sobre fundo escuro.",
+      "coverImage": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80",
+      "logoMain": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+      "colorPalette": [
+        {
+          "name": "Carvão",
+          "hex": "#121212"
+        },
+        {
+          "name": "Âmbar Brasa",
+          "hex": "#D97706"
+        },
+        {
+          "name": "Verde Oliva",
+          "hex": "#08CC07"
+        }
+      ],
+      "typography": [
+        {
+          "role": "Assinatura",
+          "family": "Outfit Semibold"
+        },
+        {
+          "role": "Menu",
+          "family": "Plus Jakarta Sans"
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "order": 3,
+      "featured": false,
+      "published": true,
+      "inTrash": false
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "test-1",
+      "name": "Matheus Albuquerque",
+      "role": "Produtor Executivo",
+      "company": "Festival Sons da Noite",
+      "text": "O Endson entregou um material impecável para o festival. Ritmo de edição absurdo, captação nos momentos certos e entrega no prazo combinado. A cobertura foi elogiada por todo o público nas redes sociais.",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+      "rating": 5,
+      "projectTitle": "Cobertura Festival",
+      "published": true
+    },
+    {
+      "id": "test-2",
+      "name": "Camila Vasconcelos",
+      "role": "Diretora de Marketing",
+      "company": "Agência Pulse",
+      "text": "Trabalhar com a H7.VOX elevou o padrão de vídeo dos nossos clientes. Ele entende a linguagem do Reels e do digital como poucos, sem perder a estética cinematográfica.",
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=400&q=80",
+      "rating": 5,
+      "projectTitle": "Campanha Publicitária",
+      "published": true
+    }
+  ],
+  "brands": [
+    {
+      "id": "brand-1",
+      "name": "Pulse Digital",
+      "logo": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=400&q=80",
+      "logoUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=400&q=80",
+      "website": "https://instagram.com",
+      "description": "Agência de Marketing & Estratégia",
+      "order": 1,
+      "active": true,
+      "inTrash": false
+    },
+    {
+      "id": "brand-2",
+      "name": "Festival Sons da Noite",
+      "logo": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=400&q=80",
+      "logoUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=400&q=80",
+      "website": "https://instagram.com",
+      "description": "Festival de Música & Cultura",
+      "order": 2,
+      "active": true,
+      "inTrash": false
+    },
+    {
+      "id": "brand-3",
+      "name": "Cais & Brasa Gastronomia",
+      "logo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=400&q=80",
+      "logoUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=400&q=80",
+      "website": "https://instagram.com",
+      "description": "Espaço Gastronômico Premium",
+      "order": 3,
+      "active": true,
+      "inTrash": false
+    },
+    {
+      "id": "brand-4",
+      "name": "Vértice Produções",
+      "logo": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=400&q=80",
+      "logoUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=400&q=80",
+      "website": "https://instagram.com",
+      "description": "Produtora de Eventos Corporativos",
+      "order": 4,
+      "active": true,
+      "inTrash": false
+    }
+  ],
+  "backstage": [
+    {
+      "id": "bk-1",
+      "title": "Setup de Iluminação e Câmera",
+      "mediaType": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1533750516457-a7f992034fec?auto=format&fit=crop&w=800&q=80",
+      "caption": "Estruturação de iluminação de recorte e lente 35mm para entrevista institucional.",
+      "tag": "Captação",
+      "order": 1,
+      "published": true,
+      "inTrash": false
+    },
+    {
+      "id": "bk-2",
+      "title": "Fluxo de Edição e Timeline Multicam",
+      "mediaType": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&w=800&q=80",
+      "caption": "Organização de canais de áudio, trilhas sincronizadas e marcação de beats na timeline.",
+      "tag": "Pós-Produção",
+      "order": 2,
+      "published": true,
+      "inTrash": false
+    },
+    {
+      "id": "bk-3",
+      "title": "Storymaker em Ação no Palco",
+      "mediaType": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=800&q=80",
+      "caption": "Captação em tempo real com estabilização e envio imediato para a equipe de redes sociais.",
+      "tag": "Storymaker",
+      "order": 3,
+      "published": true,
+      "inTrash": false
+    },
+    {
+      "id": "bk-4",
+      "title": "Color Grading & Monitor de Referência",
+      "mediaType": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?auto=format&fit=crop&w=800&q=80",
+      "caption": "Tratamento de cor primária e LUTs personalizadas para garantir uniformidade estética.",
+      "tag": "Color Grading",
+      "order": 4,
+      "published": true,
+      "inTrash": false
+    }
+  ],
+  "leads": [],
+  "visitorNotifications": [],
+  "simulatorConfig": {
+    "packages": [
+      {
+        "id": "pkg-1",
+        "name": "2 Vídeos",
+        "videoCount": 2,
+        "cardCount": 0,
+        "price": 200,
+        "description": "Edição de 2 vídeos com cortes dinâmicos, ritmo, cor e áudio.",
+        "active": true
+      },
+      {
+        "id": "pkg-2",
+        "name": "4 Vídeos",
+        "videoCount": 4,
+        "cardCount": 0,
+        "price": 300,
+        "description": "Edição de 4 vídeos com alta retenção para redes sociais.",
+        "active": true
+      },
+      {
+        "id": "pkg-3",
+        "name": "6 Vídeos",
+        "videoCount": 6,
+        "cardCount": 0,
+        "price": 600,
+        "description": "Edição de 6 vídeos com narrativa consistente e assertiva.",
+        "active": true
+      }
+    ],
+    "standalonePrices": {
+      "cardPrice": 25,
+      "carouselPrice": 40,
+      "videoPrice": 100
+    },
+    "eventPrices": {
+      "photo5Price": 20,
+      "photo10Price": 40,
+      "singleVideoPrice": 120,
+      "collectiveVideoPrice": 150
+    },
+    "politicsRateMultiplier": 1.5,
+    "customAddons": [
+      {
+        "id": "add-1",
+        "title": "Card estático para redes sociais",
+        "price": 25,
+        "unitLabel": "unidade",
+        "description": "Design de post estático alinhado à sua identidade visual.",
+        "active": true
+      },
+      {
+        "id": "add-2",
+        "title": "Carrossel estratégico",
+        "price": 40,
+        "unitLabel": "unidade",
+        "description": "Carrossel de alto engajamento com narrativa e design slide a slide.",
+        "active": true
+      },
+      {
+        "id": "add-3",
+        "title": "Vídeo avulso adicional",
+        "price": 100,
+        "unitLabel": "vídeo",
+        "description": "Edição completa com cortes, trilha, cor e legendagem dinâmica.",
+        "active": true
+      },
+      {
+        "id": "add-4",
+        "title": "Pacote com 5 fotos de evento tratadas",
+        "price": 20,
+        "unitLabel": "pacote 5 fotos",
+        "description": "Tratamento de cor e entrega em alta definição.",
+        "active": true
+      },
+      {
+        "id": "add-5",
+        "title": "Vídeo individual para evento",
+        "price": 120,
+        "unitLabel": "vídeo",
+        "description": "Foco individualizado (artista, palestrante ou homenageado).",
+        "active": true
+      },
+      {
+        "id": "add-6",
+        "title": "Vídeo coletivo para evento",
+        "price": 150,
+        "unitLabel": "vídeo",
+        "description": "Aftermovie geral com captação do público, ambiente e destaques.",
+        "active": true
+      }
+    ],
+    "formulaNotes": "Regras de Cálculo H7.VOX: Pacotes de vídeos definem o valor base (sem cards inclusos; cards são adicionados avulsos conforme escolha). Comunicação política possui precificação diferenciada/estratégica com taxa diferenciada (fator 1.5x). Itens extras além do pacote são cobrados individualmente. Serviços sem regra de preço requerem avaliação personalizada sem valor inventado."
+  },
+  "budgetSimulations": []
+}
